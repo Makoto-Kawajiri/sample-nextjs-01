@@ -25,7 +25,7 @@ export default function Home({allPostsData}: any) {
   return (
     <Layout>
       <section className={util.headingMd}>
-        <p>俺がまこだ。思い知ったか</p>
+        <p>この私が、まこだ。貴様らのような愚民が目に触れて良いものではないわ！！！！！！</p>
       </section>
 
       <div>
